@@ -4,6 +4,7 @@ Script shell d'installation de la dernière version de VSCode
 
 Le script doit être dans le répertoire où toutes les versions de VSCode sont installées :
  
+```bash
 [faro@pepe VSCode-linux-x64]$ ls -l
     total 8
     drwxr-xr-x 1 faro faro 572 27 août  09:59 1.133.0
@@ -11,6 +12,7 @@ Le script doit être dans le répertoire où toutes les versions de VSCode sont 
     drwxr-xr-x 1 faro faro 206 27 août  10:02 archives
     lrwxrwxrwx 1 faro faro   7 27 août  10:02 current -> 1.135.0
     -rwxr-xr-x 1 faro faro 666 27 août  10:08 install.new.archive.sh
+```
 
 Il exécutera les étapes suivantes :
 1. Téléchargement de la dernière version
