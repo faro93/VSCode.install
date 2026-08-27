@@ -19,6 +19,4 @@ Il exécutera les étapes suivantes :
 2. Extraction de cette version
 3. Renommage du répertoire d'extraction par son n° de version
 4. Création du lien symbolique de démarrage sur la version courante
-5. Suppression de la plus ancienne version
-  - répertoire d'exécution
-  - archives
+5. Suppression de la plus ancienne version (répertoire d'exécution et archives)
